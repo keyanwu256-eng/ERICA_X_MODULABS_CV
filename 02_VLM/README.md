@@ -8,3 +8,10 @@ VLM(Vision Language Model) 관련 실습 내용을 정리하는 폴더입니다.
 - VLM 기본 개념 학습
 - 이미지와 텍스트 처리 실습
 - 코드 및 실행 결과 정리
+
+# Peer Review Templete
+- 코더 : 코더의 이름을 작성하세요.
+- 리뷰어 : 리뷰어의 이름을 작성하세요.
+
+# PRT(Peer Review Template)
+...
