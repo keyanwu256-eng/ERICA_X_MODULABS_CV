@@ -13,31 +13,31 @@ AIFFEL Computer Vision 과정에서 진행하는 실습 및 프로젝트를 관�
 ERICA_X_MODULABS_CV/
 ├── 01_SAM3/
 │   ├── README.md
-│   └── .ipynb
+│   └── SAM3.ipynb
 ├── 02_VLM/
 │   ├── README.md
-│   └── .ipynb
+│   └── VLM.ipynb
 ├── 03_Seminar_1/
 │   ├── README.md
-│   └── .ipynb
+│   └── Seminar_1.ipynb
 ├── 04_YOLOv8/
 │   ├── README.md
-│   └── .ipynb
+│   └── YOLOv8.ipynb
 ├── 05_EfficientDet/
 │   ├── README.md
-│   └── .ipynb
+│   └── EfficientDet.ipynb
 ├── 06_Seminar_2/
 │   ├── README.md
-│   └── .ipynb
+│   └── Seminar_2.ipynb
 ├── 07_Anomaly_detection/
 │   ├── README.md
-│   └── .ipynb
+│   └── Anomaly_detection.ipynb
 ├── 08_Gen_Synthetic_data/
 │   ├── README.md
-│   └── .ipynb
+│   └── Gen_Synthetic_data.ipynb
 ├── 09_SlowPaper/
 │   ├── README.md
-│   └── .ipynb
+│   └── SlowPaper.ipynb
 └── README.md
 ```
 
